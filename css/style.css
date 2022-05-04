@@ -84,8 +84,8 @@ nav > a{
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
-    /* transition-duration: 0.5s; */
-
+    background-image: linear-gradient(to right, var(--cor3),transparent);
+    
 }
 
 nav > a:hover{
